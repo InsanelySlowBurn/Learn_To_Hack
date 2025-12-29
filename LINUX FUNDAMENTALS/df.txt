@@ -1,6 +1,5 @@
 Brief description about df command :
-
-The df  that is disk free command is used to display information about the disk space usage of file systems in Linux. It shows the total size,space used, available space, and mount points of file systems.
+The df that is disk free command is used to display information about the disk space usage of file systems in Linux. It shows the total size,space used, available space, and mount points of file systems.
 
 Flags and Options:
 1. -h : human-readable
