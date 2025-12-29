@@ -1,1 +1,9 @@
 geek{grep_is_good_to_find_things_cEDf1591}
+
+I found this using 'grep -o "geek..........." file'
+
+the -o flag looks up only the specified word
+"geek...." looks for strings that start with geek and have any possible string ahead of it
+this pattern is searched for in 'file'
+
+https://drive.google.com/file/d/1BfCzpp4_tXrFXUuj2OltczD1EoS7l4oO/view?usp=sharing
